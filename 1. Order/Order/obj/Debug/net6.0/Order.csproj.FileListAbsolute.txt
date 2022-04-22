@@ -1,0 +1,15 @@
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\Order.exe
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\Order.deps.json
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\Order.runtimeconfig.json
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\Order.dll
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\ref\Order.dll
+C:\Users\lords\source\repos\Order\Order\bin\Debug\net6.0\Order.pdb
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.csproj.AssemblyReference.cache
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.AssemblyInfoInputs.cache
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.AssemblyInfo.cs
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.dll
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\ref\Order.dll
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.pdb
+C:\Users\lords\source\repos\Order\Order\obj\Debug\net6.0\Order.genruntimeconfig.cache

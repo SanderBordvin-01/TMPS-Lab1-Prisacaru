@@ -1,0 +1,15 @@
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\Factory.exe
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\Factory.deps.json
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\Factory.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\ref\Factory.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\bin\Debug\net6.0\Factory.pdb
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\ref\Factory.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.pdb
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
